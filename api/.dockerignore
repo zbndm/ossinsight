@@ -1,0 +1,12 @@
+.github
+.git
+.env
+.gitignore
+.idea
+.vscode
+node_modules/
+tests/
+dist/
+dist/.env
+log/
+README.md
